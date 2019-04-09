@@ -1,16 +1,12 @@
 # flutter_todo
 
-A new Flutter application.
+# 本app是一个todo app
 
-## Getting Started
+    [x] 底部状态栏 首页，设置
+    [ ] 接入bomb
+    [ ] 写入todo,读取todo
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### 2019年4月9日 21:45:46
+        完成底部导航的页面切换
